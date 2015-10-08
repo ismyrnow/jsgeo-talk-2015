@@ -4,6 +4,7 @@
   "description": "",
   "main": "rmv-wait.js",
   "dependencies": {
+    "express": "^4.13.3",
     "rmv-wait-times": "^1.0.0"
   },
   "devDependencies": {},
